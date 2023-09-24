@@ -30,3 +30,7 @@ content-type: application/json
 
 ###
 
+
+GET http://localhost:3500/users/me
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiam9obkBnbWFpbC5jb20iLCJpYXQiOjE2OTU1ODczNDQsImV4cCI6MTY5NTU4ODI0NH0.tYcKgSC6eMDYMmVEnR9G509O0rXQk3TRmeKLXwbXYxQ
